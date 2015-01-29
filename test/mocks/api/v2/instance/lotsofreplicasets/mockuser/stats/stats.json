@@ -1,0 +1,243 @@
+{
+  "shards": {
+    "2f7abb37320b715c8ed68c86d29d93a7": [
+      "iadclus10br0vz34.iad.objectrocket.com:30474",
+      "iadclus10br1vz34.iad.objectrocket.com:30474",
+      "iadclus10br2vz34.iad.objectrocket.com:30474"
+    ],
+    "565b4bb4c813ca7af0852174ce8036f4": [
+      "iadclus6br0vz73.iad.objectrocket.com:31926",
+      "iadclus6br1vz73.iad.objectrocket.com:31926",
+      "iadclus6br2vz73.iad.objectrocket.com:31926"
+    ],
+    "3066b11b58eb7fb925b67d25c54e3234": [
+      "iadclus44br0vz7.iad.objectrocket.com:31747",
+      "iadclus44br1vz7.iad.objectrocket.com:31747",
+      "iadclus44br2vz7.iad.objectrocket.com:31747"
+    ],
+    "a39878ae282a18ea051ad89e7875a272": [
+      "iadclus40br0vz7.iad.objectrocket.com:31779",
+      "iadclus40br1vz7.iad.objectrocket.com:31779",
+      "iadclus40br2vz7.iad.objectrocket.com:31779"
+    ],
+    "c070bfe7f385b5bdda1dcd920c4965a6": [
+      "iadclus39br0vz7.iad.objectrocket.com:31710",
+      "iadclus39br1vz7.iad.objectrocket.com:31710",
+      "iadclus39br2vz7.iad.objectrocket.com:31710"
+    ],
+    "f1678636cab6fa77c76a9264ea9963a7": [
+      "iadclus23br0vz7.iad.objectrocket.com:30473",
+      "iadclus23br1vz7.iad.objectrocket.com:30473",
+      "iadclus23br2vz7.iad.objectrocket.com:30473"
+    ],
+    "cabe9e1b214ce57538a20ca6688a8ee0": [
+      "iadclus10br0vz33.iad.objectrocket.com:30685",
+      "iadclus10br1vz33.iad.objectrocket.com:30685",
+      "iadclus10br2vz33.iad.objectrocket.com:30685"
+    ],
+    "13616b9ad93bd3ff7f45556ad117f48a": [
+      "iadclus52br0vz1.iad.objectrocket.com:32128",
+      "iadclus52br1vz1.iad.objectrocket.com:32128",
+      "iadclus52br2vz1.iad.objectrocket.com:32128"
+    ],
+    "115bc51524f29ca721174801df38a2a8": [
+      "iadclus18br0vz21.iad.objectrocket.com:31832",
+      "iadclus18br1vz21.iad.objectrocket.com:31832",
+      "iadclus18br2vz21.iad.objectrocket.com:31832"
+    ],
+    "13cd49fe3b1b37f47e6c20a256045cc1": [
+      "iadclus43br0vz11.iad.objectrocket.com:32025",
+      "iadclus43br1vz11.iad.objectrocket.com:32025",
+      "iadclus43br2vz11.iad.objectrocket.com:32025"
+    ],
+    "f65c00c041bab77ab44874be15c53276": [
+      "iadclus41br0vz13.iad.objectrocket.com:31685",
+      "iadclus41br1vz13.iad.objectrocket.com:31685",
+      "iadclus41br2vz13.iad.objectrocket.com:31685"
+    ],
+    "dcb91ad1cd3630601020f83d7b6883e0": [
+      "iadclus14br0vz0.iad.objectrocket.com:30475",
+      "iadclus14br1vz0.iad.objectrocket.com:30475",
+      "iadclus14br2vz0.iad.objectrocket.com:30475"
+    ],
+    "5cfcbafd768519bce51371aae5cac8fb": [
+      "iadclus31br0vz11.iad.objectrocket.com:31543",
+      "iadclus31br1vz11.iad.objectrocket.com:31543",
+      "iadclus31br2vz11.iad.objectrocket.com:31543"
+    ],
+    "045723a2e194ae8b07890dace311b402": [
+      "iadclus44br0vz3.iad.objectrocket.com:31724",
+      "iadclus44br1vz3.iad.objectrocket.com:31724",
+      "iadclus44br2vz3.iad.objectrocket.com:31724"
+    ],
+    "e01e2a7dc9f98aee65e95fee05300993": [
+      "iadclus51br0vz1.iad.objectrocket.com:32127",
+      "iadclus51br1vz1.iad.objectrocket.com:32127",
+      "iadclus51br2vz1.iad.objectrocket.com:32127"
+    ],
+    "365e0c4ae46e73e9e0ecdfa4e158d3a5": [
+      "iadclus42br0vz6.iad.objectrocket.com:31667",
+      "iadclus42br1vz6.iad.objectrocket.com:31667",
+      "iadclus42br2vz6.iad.objectrocket.com:31667"
+    ],
+    "dfe55b7e653dffe936a78a08bbe0af8e": [
+      "iadclus54br0vz1.iad.objectrocket.com:32130",
+      "iadclus54br1vz1.iad.objectrocket.com:32130",
+      "iadclus54br2vz1.iad.objectrocket.com:32130"
+    ],
+    "b32ea661205e379f9457cb730f76413d": [
+      "iadclus49br0vz0.iad.objectrocket.com:31919",
+      "iadclus49br1vz0.iad.objectrocket.com:31919",
+      "iadclus49br2vz0.iad.objectrocket.com:31919"
+    ],
+    "6177a45cb50f7d46de52a4aee0c17629": [
+      "iadclus26br0vz13.iad.objectrocket.com:32004",
+      "iadclus26br1vz13.iad.objectrocket.com:32004",
+      "iadclus26br2vz13.iad.objectrocket.com:32004"
+    ],
+    "5b648f859eb8adc0121e6a1bf7f6aa98": [
+      "iadclus19br0vz2.iad.objectrocket.com:31062",
+      "iadclus19br1vz2.iad.objectrocket.com:31062",
+      "iadclus19br2vz2.iad.objectrocket.com:31062"
+    ]
+  },
+  "stat_names": [
+    "mongodb.connections.current",
+    "mongodb.admn.collections",
+    "mongodb.admn.dataSize",
+    "mongodb.admn.indexSize",
+    "mongodb.admn.indexes",
+    "mongodb.admn.numExtents",
+    "mongodb.admn.objects",
+    "mongodb.admn.storageSize",
+    "mongodb.admn.timeAcquiringMicros.r",
+    "mongodb.admn.timeAcquiringMicros.w",
+    "mongodb.admn.timeLockedMicros.r",
+    "mongodb.admn.timeLockedMicros.w",
+    "mongodb.appboy_production_with_replica.collections",
+    "mongodb.appboy_production_with_replica.dataSize",
+    "mongodb.appboy_production_with_replica.indexSize",
+    "mongodb.appboy_production_with_replica.indexes",
+    "mongodb.appboy_production_with_replica.numExtents",
+    "mongodb.appboy_production_with_replica.objects",
+    "mongodb.appboy_production_with_replica.storageSize",
+    "mongodb.appboy_production_with_replica.timeAcquiringMicros.r",
+    "mongodb.appboy_production_with_replica.timeAcquiringMicros.w",
+    "mongodb.appboy_production_with_replica.timeLockedMicros.r",
+    "mongodb.appboy_production_with_replica.timeLockedMicros.w",
+    "mongodb.config.collections",
+    "mongodb.config.dataSize",
+    "mongodb.config.indexSize",
+    "mongodb.config.indexes",
+    "mongodb.config.numExtents",
+    "mongodb.config.objects",
+    "mongodb.config.storageSize",
+    "mongodb.config.timeAcquiringMicros.r",
+    "mongodb.config.timeAcquiringMicros.w",
+    "mongodb.config.timeLockedMicros.r",
+    "mongodb.config.timeLockedMicros.w",
+    "mongodb.custeromers.collections",
+    "mongodb.custeromers.dataSize",
+    "mongodb.custeromers.indexSize",
+    "mongodb.custeromers.indexes",
+    "mongodb.custeromers.numExtents",
+    "mongodb.custeromers.objects",
+    "mongodb.custeromers.storageSize",
+    "mongodb.custeromers.timeAcquiringMicros.r",
+    "mongodb.custeromers.timeAcquiringMicros.w",
+    "mongodb.custeromers.timeLockedMicros.r",
+    "mongodb.custeromers.timeLockedMicros.w",
+    "mongodb.customers.collections",
+    "mongodb.customers.dataSize",
+    "mongodb.customers.indexSize",
+    "mongodb.customers.indexes",
+    "mongodb.customers.numExtents",
+    "mongodb.customers.objects",
+    "mongodb.customers.storageSize",
+    "mongodb.customers.timeAcquiringMicros.r",
+    "mongodb.customers.timeAcquiringMicros.w",
+    "mongodb.customers.timeLockedMicros.r",
+    "mongodb.customers.timeLockedMicros.w",
+    "mongodb.db.collections",
+    "mongodb.db.dataSize",
+    "mongodb.db.indexSize",
+    "mongodb.db.indexes",
+    "mongodb.db.numExtents",
+    "mongodb.db.objects",
+    "mongodb.db.storageSize",
+    "mongodb.db.timeAcquiringMicros.r",
+    "mongodb.db.timeAcquiringMicros.w",
+    "mongodb.db.timeLockedMicros.r",
+    "mongodb.db.timeLockedMicros.w",
+    "mongodb.foo.collections",
+    "mongodb.foo.dataSize",
+    "mongodb.foo.indexSize",
+    "mongodb.foo.indexes",
+    "mongodb.foo.numExtents",
+    "mongodb.foo.objects",
+    "mongodb.foo.storageSize",
+    "mongodb.foo.timeAcquiringMicros.r",
+    "mongodb.foo.timeAcquiringMicros.w",
+    "mongodb.foo.timeLockedMicros.r",
+    "mongodb.foo.timeLockedMicros.w",
+    "mongodb.globalLock.activeClients.readers",
+    "mongodb.globalLock.activeClients.total",
+    "mongodb.globalLock.activeClients.writers",
+    "mongodb.globalLock.currentQueue.readers",
+    "mongodb.globalLock.currentQueue.total",
+    "mongodb.globalLock.currentQueue.writers",
+    "mongodb.mem.mapped",
+    "mongodb.mem.resident",
+    "mongodb.mem.virtual",
+    "mongodb.nagios.collections",
+    "mongodb.nagios.dataSize",
+    "mongodb.nagios.indexSize",
+    "mongodb.nagios.indexes",
+    "mongodb.nagios.numExtents",
+    "mongodb.nagios.objects",
+    "mongodb.nagios.storageSize",
+    "mongodb.nagios.timeAcquiringMicros.r",
+    "mongodb.nagios.timeAcquiringMicros.w",
+    "mongodb.nagios.timeLockedMicros.r",
+    "mongodb.nagios.timeLockedMicros.w",
+    "mongodb.opcounters.command",
+    "mongodb.opcounters.delete",
+    "mongodb.opcounters.getmore",
+    "mongodb.opcounters.insert",
+    "mongodb.opcounters.query",
+    "mongodb.opcounters.update",
+    "mongodb.test.collections",
+    "mongodb.test.dataSize",
+    "mongodb.test.indexSize",
+    "mongodb.test.indexes",
+    "mongodb.test.numExtents",
+    "mongodb.test.objects",
+    "mongodb.test.storageSize",
+    "mongodb.test.timeAcquiringMicros.r",
+    "mongodb.test.timeAcquiringMicros.w",
+    "mongodb.test.timeLockedMicros.r",
+    "mongodb.test.timeLockedMicros.w",
+    "mongodb.user_test.collections",
+    "mongodb.user_test.dataSize",
+    "mongodb.user_test.indexSize",
+    "mongodb.user_test.indexes",
+    "mongodb.user_test.numExtents",
+    "mongodb.user_test.objects",
+    "mongodb.user_test.storageSize",
+    "mongodb.user_test.timeAcquiringMicros.r",
+    "mongodb.user_test.timeAcquiringMicros.w",
+    "mongodb.user_test.timeLockedMicros.r",
+    "mongodb.user_test.timeLockedMicros.w",
+    "mongodb.ut_activity_feed.collections",
+    "mongodb.ut_activity_feed.dataSize",
+    "mongodb.ut_activity_feed.indexSize",
+    "mongodb.ut_activity_feed.indexes",
+    "mongodb.ut_activity_feed.numExtents",
+    "mongodb.ut_activity_feed.objects",
+    "mongodb.ut_activity_feed.storageSize",
+    "mongodb.ut_activity_feed.timeAcquiringMicros.r",
+    "mongodb.ut_activity_feed.timeAcquiringMicros.w",
+    "mongodb.ut_activity_feed.timeLockedMicros.r",
+    "mongodb.ut_activity_feed.timeLockedMicros.w"
+  ]
+}
