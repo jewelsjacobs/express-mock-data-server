@@ -27,10 +27,12 @@ It runs as a [forever-service](https://github.com/zapty/forever-service) called 
 
 Commands to interact with service mock-data:
 
+```
 Start   - `sudo service mock-data start`
 Stop    - `sudo service mock-data stop`
 Status  - `sudo service mock-data status`
 Restart - `sudo service mock-data restart`
+```
 
 # Credit Where Credit Is Due
 
