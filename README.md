@@ -2,7 +2,7 @@
 
 Just a simple mock api server that serves static JSON files from a folder structure using ExpressJS.
 
-It lives on http://qamon0.dev.objectrocket.com
+It lives on http://qamon0.dev.objectrocket.com:8080
 
 # Here's how it works:
 
@@ -19,7 +19,11 @@ Paste in the terminal and append with `> somejsonfile.json` to save it to a json
 
 You should now be able to make GET calls to your mock data file.  Again, following the example, this would be:
 
-http://qamon0.dev.objectrocket.com/api/v2/stats
+http://qamon0.dev.objectrocket.com:8080/api/v2/stats
+
+Here's an actual working example:
+
+http://qamon0.dev.objectrocket.com:8080/api/v2/instance/lotsofreplicasets/mockuser/stats
 
 # Server info
 
