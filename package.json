@@ -1,0 +1,33 @@
+{
+  "name": "simple-mock-api-server",
+  "version": "0.0.0",
+  "description": "Just a simple mock api server that serves static JSON files from a folder structure using ExpressJS",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rackerlabs/simple-mock-api-server.git"
+  },
+  "author": {
+    "name": "Julia Jacobs",
+    "company": "Rackspace",
+    "email": "julia.jacobs@rackspace.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rackerlabs/simple-mock-api-server/issues"
+  },
+  "homepage": "https://github.com/rackerlabs/simple-mock-api-server",
+  "dependencies": {
+    "errorhandler": "^1.1.1",
+    "express": "^4.8.2",
+    "glob": "^4.0.5",
+    "logger": "0.0.1",
+    "morgan": "^1.2.2"
+  }
+}
