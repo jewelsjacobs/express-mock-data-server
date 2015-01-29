@@ -2,7 +2,7 @@
 var applicationRoot = __dirname.replace(/\\/g,"/"),
   morgan  = require('morgan'),
   errorhandler = require('errorhandler')
-  ipaddress = '127.0.0.1',
+  ipaddress = '0.0.0.0',
   port = 8080;
 mockRoot = applicationRoot + '/test/mocks/api',
   mockFilePattern = '.json',
