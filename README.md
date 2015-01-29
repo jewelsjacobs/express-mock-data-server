@@ -19,7 +19,7 @@ Paste in the terminal and append with `> somejsonfile.json` to save it to a json
 
 You should now be able to make GET calls to your mock data file.  Again, following the example, this would be:
 
-http://qamon0.dev.objectrocket.com//test/mocks/api/v2/stats
+http://qamon0.dev.objectrocket.com/api/v2/stats
 
 # Server info
 
