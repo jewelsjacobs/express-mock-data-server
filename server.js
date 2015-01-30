@@ -29,7 +29,7 @@ if(files && files.length > 0) {
       if (fileName.indexOf('?')) {
           var queryParamMapping = apiRoot + fileName.replace(mockRoot, '').replace(mockFilePattern, '');
 
-          app.get(queryParamMapping + '/(\?)?', function (req, res) {
+          app.get('/\?/', function (req, res) {
               var data = fs.readFileSync(fileName, 'utf8');
               res.writeHead(200, {'Content-Type': 'application/json'});
               res.write(data);
