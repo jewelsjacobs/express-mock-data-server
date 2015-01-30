@@ -4,6 +4,10 @@ Just a simple mock api server that serves static JSON files from a folder struct
 
 It lives on http://mon0.dev.objectrocket.com:8080
 
+The app is in the `/var/app` directory on `qamon0`.  To access `qamon0`, you need to be on the OR development VPN and have to ssh into it from `qamon1`.
+
+If you have any questions about accessing these environments, please contact @TheDodd.
+
 # Here's how it works:
 
 1. Grab a json API response from a live API and save it as a file.
@@ -35,6 +39,9 @@ Stop    - `sudo service mock-data stop`
 Status  - `sudo service mock-data status`
 Restart - `sudo service mock-data restart`
 ```
+# Questions?  Need Help?
+
+Contact @jewelsjacobs
 
 # Credit Where Credit Is Due
 
