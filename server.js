@@ -26,14 +26,14 @@ var files = glob.sync(mockRootPattern);
 if(files && files.length > 0) {
   files.forEach(function(fileName) {
 
-    var mapping = apiRoot + fileName.replace(mockRoot, '').replace(mockFilePattern,'');
+      var mapping = apiRoot + fileName.replace(mockRoot, '').replace(mockFilePattern,'');
 
-    app.get(mapping, function (req, res) {
-      var data =  fs.readFileSync(fileName, 'utf8');
-      res.writeHead(200, { 'Content-Type': 'application/json' });
-      res.write(data);
-      res.end();
-    });
+      app.get(mapping + '/(\?)?', function (req, res) {
+          var data = fs.readFileSync(fileName, 'utf8');
+          res.writeHead(200, {'Content-Type': 'application/json'});
+          res.write(data);
+          res.end();
+      });
 
     console.log('Registered mapping: %s -> %s', mapping, fileName);
   })
