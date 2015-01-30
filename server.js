@@ -28,7 +28,7 @@ if(files && files.length > 0) {
 
       var mapping = apiRoot + fileName.replace(mockRoot, '').replace(mockFilePattern,'');
 
-      app.get(mapping + '/(\?)?', function (req, res) {
+      app.get(mapping, function (req, res) {
           var data = fs.readFileSync(fileName, 'utf8');
           res.writeHead(200, {'Content-Type': 'application/json'});
           res.write(data);
