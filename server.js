@@ -18,8 +18,6 @@ var app = express();
 /* Configure a simple logger and an error handler. */
 app.use(morgan('combined'));
 app.use(errorhandler());
-//Here we are configuring express to use body-parser as middle-ware.
-app.use(bodyParser.urlencoded({ extended: false }));
 
 /* Read the directory tree according to the pattern specified above. */
 var files = glob.sync(mockRootPattern);
