@@ -18,6 +18,8 @@ var app = express();
 /* Configure a simple logger and an error handler. */
 app.use(morgan('combined'));
 app.use(errorhandler());
+//Here we are configuring express to use body-parser as middle-ware.
+app.use(bodyParser.urlencoded({ extended: false }));
 
 /* Read the directory tree according to the pattern specified above. */
 var files = glob.sync(mockRootPattern);
@@ -29,6 +31,13 @@ if(files && files.length > 0) {
     var mapping = apiRoot + fileName.replace(mockRoot, '').replace(mockFilePattern,'');
 
     app.get(mapping, function (req, res) {
+      var data =  fs.readFileSync(fileName, 'utf8');
+      res.writeHead(200, { 'Content-Type': 'application/json' });
+      res.write(data);
+      res.end();
+    });
+
+    app.post(mapping,function(req,res){
       var data =  fs.readFileSync(fileName, 'utf8');
       res.writeHead(200, { 'Content-Type': 'application/json' });
       res.write(data);
