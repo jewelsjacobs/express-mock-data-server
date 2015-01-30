@@ -17,6 +17,8 @@ Paste in the terminal and append with `> somejsonfile.json` to save it to a json
 
 4. Put the json file in the directory, ie. following the examples `/test/mocks/api/v2/stats.json`.
 
+5. *No Server Restart Necessary*
+
 You should now be able to make GET calls to your mock data file.  Again, following the example, this would be:
 
 http://mon0.dev.objectrocket.com:8080/api/v2/stats
