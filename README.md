@@ -15,17 +15,17 @@ An easy way to do this is in Chrome via the Network tab in the Dev Tools.
 Right click on the response and choose `Copy as cURL`.
 Paste in the terminal and append with `> somejsonfile.json` to save it to a json file.
 
-2. In the `/test/mocks/api` folder create a folder structure to mimic a path you want to make a GET or POST request to, ie. if your making calls to an api with endpoint `/v2/instance/test_stats/stats_config` create the folder structure `v2/instance/test_stats/`inside `/test/mocks/api`.
+2. In the `/test/mocks/api` folder create a folder structure to mimic a path you want to make a GET or POST request to, ie. if your making calls to an api with endpoint `/v2/instance/test_instance/stats_config` create the folder structure `v2/instance/test_instance/`inside `/test/mocks/api`.
 
 3. Name the json file to match the api name, ie. for `stats_config` you would name it `stats_config.json`.
 
-4. Put the json file in the directory, ie. following the examples `/test/mocks/api/v2/instance/test_stats/stats_config.json`.
+4. Put the json file in the directory, ie. following the examples `/test/mocks/api/v2/instance/test_instance/stats_config.json`.
 
 5. *No Server Restart Necessary*
 
 You should now be able to make GET or POST calls to your mock data file.  Again, following the example (now live), this would be:
 
-http://mon0.dev.objectrocket.com:8080/api/v2/instance/test_stats/stats_config
+http://mon0.dev.objectrocket.com:8080/api/v2/instance/test_instance/stats_config
 
 # Server info
 
