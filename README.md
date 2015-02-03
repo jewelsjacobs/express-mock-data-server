@@ -4,7 +4,7 @@ Just a simple mock api server that serves static JSON files from a folder struct
 
 It lives on http://mon0.dev.objectrocket.com:8080
 
-The app is in the `/var/app` directory on `qamon0`.  To access `qamon0`, you need to be on the OR development VPN and have to ssh into it from `qamon1`.
+The app is in the `/var/apps` directory on `qamon0`.  To access `qamon0`, you need to be on the OR development VPN and have to ssh into it from `qamon1`.
 
 If you have any questions about accessing these environments, please contact @TheDodd.
 
