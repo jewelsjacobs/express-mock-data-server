@@ -1,4 +1,4 @@
-# Simple Mock Api Server for GUI
+# Simple Mock Api Data Server
 
 Just a simple mock api server that serves static JSON files from a folder structure using ExpressJS.
 
