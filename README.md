@@ -42,3 +42,5 @@ Totally ripped off from [Adam Boczek's blog](https://coderwall.com/p/ss80vw) wit
 Thank you Adam Boczek.
 
 If you use this, show him some love by sharing his [blog article](http://twitter.com/share?url=https%3A%2F%2Fcoderwall.com%2Fp%2Fss80vw&via=coderwall&text=Using+Node.js+with+Express+as+a+Simple+API+Mock+Server+%23protip&related=&count=vertical&lang=en)
+
+[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/jewelsjacobs/)
