@@ -2,12 +2,6 @@
 
 Just a simple mock api server that serves static JSON files from a folder structure using ExpressJS.
 
-It lives on http://mon0.dev.objectrocket.com:8080
-
-The app is in the `/var/apps` directory on `qamon0`.  To access `qamon0`, you need to be on the OR development VPN and have to ssh into it from `qamon1`.
-
-If you have any questions about accessing these environments, please contact @TheDodd.
-
 # Here's how it works:
 
 1. Grab a json API response from a live API and save it as a file.
@@ -23,9 +17,7 @@ Paste in the terminal and append with `> somejsonfile.json` to save it to a json
 
 5. *No Server Restart Necessary*
 
-You should now be able to make GET or POST calls to your mock data file.  Again, following the example (now live), this would be:
-
-http://mon0.dev.objectrocket.com:8080/api/v2/instance/test_instance/stats_config
+You should now be able to make GET or POST calls to your mock data file.
 
 # Server info
 
